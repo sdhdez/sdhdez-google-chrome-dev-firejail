@@ -27,7 +27,7 @@ pkgbase = google-chrome-dev
 	source = google-chrome-unstable.sh
 	md5sums = 32da2d3fa1fa10e24025957b8692602b
 	md5sums = d50d8f0a6940791eabc41c4f64e6a3cf
-	md5sums = 11b55a3fec7279db32b63e3a0b97dc01
+	md5sums = a51d893a23506a7c25694170e4814d85
 
 pkgname = google-chrome-dev
 
